@@ -6,7 +6,14 @@ namespace PluralSight_Generics
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee[] employess = new Employee[] {
+                new Employee("Scott"),
+                new Employee("Alex")
+            };
+
+            foreach (var employee in employess) {
+                Console.WriteLine(employee.Name); 
+            }
         }
     }
 }

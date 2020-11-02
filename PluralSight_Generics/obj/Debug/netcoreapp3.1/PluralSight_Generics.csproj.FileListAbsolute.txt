@@ -1,0 +1,13 @@
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.exe
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.deps.json
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.runtimeconfig.json
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.runtimeconfig.dev.json
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.dll
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\bin\Debug\netcoreapp3.1\PluralSight_Generics.pdb
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.csprojAssemblyReference.cache
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.AssemblyInfoInputs.cache
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.AssemblyInfo.cs
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.csproj.CoreCompileInputs.cache
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.dll
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.pdb
+C:\Users\Jonathon\source\repos\PluralSight_Generics\PluralSight_Generics\obj\Debug\netcoreapp3.1\PluralSight_Generics.genruntimeconfig.cache
