@@ -86,8 +86,12 @@ namespace PluralSight_Generics
 
             staff.Add("Engineering Team", new List<Employee> { new Employee("Shaun"),
                                                                new Employee("James"),
-                                                                new Employee("Richard")}); 
+                                                                new Employee("Richard")});
 
+            foreach (var item in staff) {
+                Console.WriteLine("The count of employees for {0}, {1}", item.Key, item.Value.Count); 
+
+            }
 
 
         }
